@@ -1,0 +1,11 @@
+{
+     "absolut_path":"L:\\CACEIS-CARAR$\\GR-ES\\EBS\\General\\Remi\\Projet_Basket\\BT_Format_PROD",
+     "path_processed_file": "L:\\CACEIS-CARAR$\\GR-ES\\EBS\\General\\Remi\\Projet_Basket\\BT_Format_PROD\\TEST1",
+     "name_processed_folder": "Fichiers_traités",
+     "path_logger": "L:\\CACEIS-CARAR$\\GR-ES\\EBS\\General\\Remi\\Projet_Basket\\BT_Format_PROD\\TEST2",
+     "name_loggerfile": "Log",
+     "path_depot_test_local": "L:\\CACEIS-CARAR$\\GR-ES\\EBS\\General\\Remi\\Projet_Basket\\BT_Format_PROD\\TEST3",
+     "prodfolder_path": "\\prod\\ud00\\output\\Ullink_orders",
+     "uatfolder_path" : "\\uat\\ud01\\output\\Ullink_orders",
+     "echange_information_bloom__name_global" : "echange_info_bloom"
+}
